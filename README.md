@@ -104,6 +104,11 @@ bash train_4B.sh
 > **Configuration:** Hyperparameters can be modified directly inside `train_4B.sh`. The default script is configured for 8 GPUs on a single node.
 
 
+## 🌟 Acknowledgements
+
+We would like to thank **[verl](https://github.com/volcengine/verl)** team for providing a flexible and powerful reinforcement learning infrastructure that made our training process possible. We also extend our thanks to the developers of **[MemAgent](https://github.com/BytedTsinghua-SIA/MemAgent)** for their excellent interface design and foundational contributions.
+
+
 
 ## 📊 Evaluation
 
