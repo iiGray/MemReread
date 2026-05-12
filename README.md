@@ -2,7 +2,7 @@
 
 # <img src="assets/timeline-svgrepo-com.svg" width="20" alt="MemReread Logo"> MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](xxx)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.10268)
 [![Hugging Face Collection](https://img.shields.io/badge/Hugging%20Face-Collection-ffd21e)](https://huggingface.co/iiiiGray/MemReread-4B)
 [![ModelScope](https://img.shields.io/badge/ModelScope-Collection-624aff.svg)](https://modelscope.cn/collections/iiGray/MemReread)
 
