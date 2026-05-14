@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-**MemReread** is a memory-guided LLM agent that decomposes the task to isolate its highest-priority sub-question based on its memory, then performs rereading guided by the generated sub-question, and directly answers according to the sub-memory, finally updating the root memory with the sub-question-answer pair.
+MemReread is a memory-guided LLM agent that decomposes the task to isolate its highest-priority sub-question based on its memory, then performs rereading guided by the generated sub-question, and directly answers according to the sub-memory, finally updating the root memory with the sub-question-answer pair. This process continues until the memory contains sufficient evidence to reach the answer.
 
 
 
