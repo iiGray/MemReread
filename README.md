@@ -127,3 +127,16 @@ bash run_preliminary.sh
 # Run the main experiment evaluation
 bash run_eval.sh
 ```
+
+
+## 📝 Citation
+
+If you find this work useful in your research, please consider citing our paper :)
+
+```bibtex
+@article{ji2026memreread,
+  title={MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading},
+  author={Ji, Baibei and Weng, Xiaoyang and Li, Juntao and Tang, Zecheng and Lou, Yihang and Zhang, Min},
+  journal={arXiv preprint arXiv:2605.10268},
+  year={2026}
+}
