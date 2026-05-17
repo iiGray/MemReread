@@ -227,7 +227,7 @@ class Memory:
                  nid: "int",
                  sample_index: "int",
                  logger: "logging.Logger",
-                 agent: "MemRread",
+                 agent: "MemReread",
                  depth: "int",
                  beam_id: "int",
                  question: "str", 
